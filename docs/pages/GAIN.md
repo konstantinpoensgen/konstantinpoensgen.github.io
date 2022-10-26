@@ -1,3 +1,7 @@
+layout: page
+title: "GAIN"
+permalink: /GAIN
+
 # GAIN
 ## Graduate Applications International Network
 
