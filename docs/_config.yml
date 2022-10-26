@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+---
+---
+@import "jekyll-theme-slate";
 title: Konstantin Poensgen
 description: Predoctoral Fellow at the University of Zurich
