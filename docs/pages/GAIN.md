@@ -1,3 +1,9 @@
+---
+---
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
+
 # GAIN
 ## Graduate Applications International Network
 
