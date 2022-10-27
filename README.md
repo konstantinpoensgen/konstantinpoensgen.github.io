@@ -6,4 +6,19 @@ I am applying to Ph.D. programs in economics with admission in the fall of 2023.
 
 ### Ph.D. application materials 
 
-[CV]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/cv_poensgen.pdf)
+- [CV]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/cv_poensgen.pdf)
+- [Statement of Purpose]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_sop_intermediate.pdf)
+- [Writing sample]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/ec475_poensgen_researchproposal_patentduplication.pdf)
+- [Diversity statement]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/Poensgen_DiversityStatement_GAIN.pdf)
+
+### Research proposals
+
+- [Local market taxation]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_markettaxation_proposal.pdf)
+- [Multi-period health insurance]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_MPHI_proposal.pdf)
+- [Duplication in research efforts]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/ec475_poensgen_researchproposal_patentduplication.pdf)
+
+### Graduate Applications International Network (GAIN)
+
+The [Graduate Applications International Network (GAIN)](https://gain-network.net) supports prospective graduate students from all countries across Africa applying for excellent programs (both Master and PhD) in economics and related fields (public policy, political science, etc.). African scholars are strongly under-represented in economics research globally. GAIN supports graduate applicants through information sharing, mentoring, peer-to-peer support, and reduction of financial barriers, with the goal of strengthening the pipeline for African students into the economics profession.
+
+Registration for the 2023-24 cycle opens in early 2023. Sign up for a remind-me list [here](https://gain-network.net).
