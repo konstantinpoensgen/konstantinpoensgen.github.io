@@ -7,7 +7,7 @@ I am applying to Ph.D. programs in economics with admission in the fall of 2023.
 ### Ph.D. application materials 
 
 - [CV]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/cv_poensgen.pdf)
-- [Statement of Purpose]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_sop_intermediate.pdf)
+- [Statement of Purpose]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_sop.pdf)
 - [Writing sample]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_writingsample.pdf)
 - [Diversity statement]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/Poensgen_DiversityStatement_GAIN.pdf)
 
