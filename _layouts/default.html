@@ -27,9 +27,11 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %} -->
 
-        <!--  {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %} -->
+        {% if site.github.is_user_page %}
+          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+          <p class="view"><a href="https://www.linkedin.com/in/konstantin-poensgen/">LinkedIn</a></p>
+          <p class="view"><a href="https://twitter.com/konstpoensgen?lang=en">Twitter</a></p>
+        {% endif %}
 
         <!--
         <p> <a href="konstantinpoensgen.github.io/docs/assets/phd_applications/cv_poensgen.pdf">CV</a> </p> 
