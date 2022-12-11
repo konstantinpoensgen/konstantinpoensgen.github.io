@@ -15,7 +15,7 @@ I am applying to Ph.D. programs in economics with admission in the fall of 2023.
 
 - [Local shopping market taxation in developing economies]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_markettaxation_proposal.pdf)
 - [Multi-period health insurance and choice frictions]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_MPHI_proposal.pdf)
-- [Duplication in research efforts and decline in innovation productivity]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_rdduplication_proposal.pdf)
+- [R&D duplication and the decline in innovation productivity]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_rdduplication_proposal.pdf)
 
 ### Graduate Applications International Network (GAIN)
 
