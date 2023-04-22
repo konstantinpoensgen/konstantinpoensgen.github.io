@@ -8,7 +8,7 @@ You can find my [CV here]({{ konstantinpoensgen.github.io }}/docs/assets/phd_app
 
 ### Work in progress
 
-Price Sensitivity of Health Insurance Demand: Evidence from Recent Reforms in Germany [Current draft]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_writingsample.pdf
+Price Sensitivity of Health Insurance Demand: Evidence from Recent Reforms in Germany [(current draft)]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_writingsample.pdf)
 
 ### Graduate Applications International Network (GAIN)
 
