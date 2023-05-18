@@ -15,7 +15,7 @@ Registration for the 2023-24 cycle is now closed. Sign up for a remind-me list t
 ### Ph.D. application materials 
 
 - [CV]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/cv_poensgen.pdf)
-- [Statement of Purpose]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_sop.pdf)
+- [Statement of Purpose]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_sop_harvard_econ.pdf)
 - [Writing sample]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_writingsample.pdf)
 - [Diversity statement]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/Poensgen_DiversityStatement_GAIN.pdf)
 - Research proposals on [local taxation]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_markettaxation_proposal.pdf), [health insurance]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_MPHI_proposal.pdf), and [innovation productivity]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_rdduplication_proposal.pdf)
