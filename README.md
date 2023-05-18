@@ -12,7 +12,7 @@ Since the fall of 2021, I am co-leading the mentoring program of the [Graduate A
 
 Registration for the 2023-24 cycle is now closed. Sign up for a remind-me list to participate in the 2024-25 cycle [here](https://gain-network.net). If you have any questions on the program or ideas to collaborate, please reach out.
 
-### Advice for Ph.D. application 
+### Resources for economics Ph.D. applications  
 
 There is lots of advice on PhD applications available online. Some of this advice includes: 
 - [Notes on applying for a PhD - Jesse M. Shapiro](https://scholar.harvard.edu/files/shapiro/files/phdnotes.pdf)
