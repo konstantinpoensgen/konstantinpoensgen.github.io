@@ -22,6 +22,7 @@ There is lots of advice on PhD applications available online. Some of this advic
 - [How to get into an Economics PhD program - Aparna Soni](http://www.aparnagsoni.com/for-prospective-phds-blog/2018/1/11/getting-into-an-econ-phd-program-recommended-reading)
 - [Advice for applying to grad school in Economics - Susan Athey](https://gsb-faculty.stanford.edu/susan-athey/professional-advice/)
 - [Extensive application guide - Torsha Chakravorty, Aishwarya Kekre, Prerna Kundu, Lakshya Narula and Vaibhav Oiha](https://www.dropbox.com/sh/3kcg3puxw34garw/AABiW6A1VdZ_Ll_hQ2ZFfY8Na?dl=0&preview=Econ_PhD_Guide.pdf)
+- [Resources for economics students including on applications - EconThaki](https://econthaki.github.io/recursos/2021/01/05/recursos.html)
 
 I am planning to write up some advice based on my experience in the PhD application process and as a team lead for [GAIN](https://gain-network.net) in the future. For now, I am sharing the documents I have used for my applications, hoping they give prospective applicants a sense of _possiple_ ways to create and structure these materials.
 
