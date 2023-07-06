@@ -21,7 +21,7 @@ You can find my [CV here]({{ konstantinpoensgen.github.io }}/docs/assets/phd_app
 - [Advice for applying to grad school in Economics - Susan Athey](https://gsb-faculty.stanford.edu/susan-athey/professional-advice/)
 - [Resources for economics students including on applications - EconThaki](https://econthaki.github.io/recursos/2021/01/05/recursos.html)
 
-#### Examples of application materials
+#### Application materials
 
 To provide a concrete example of application materials, the following documents are the ones I had submitted in my application to PhD programs in economics. Please keep in mind that they are not necessarily "good" and only represent one possible way of structuring these documents.
 
