@@ -2,6 +2,8 @@
 layout: default
 ---
 
+### PhD Economics Applications
+
 #### Resources
 
 - AEA on [preparing for graduate school](https://www.aeaweb.org/resources/students/grad-prep) and [suggested timeline](https://www.aeaweb.org/resources/students/grad-prep/timeline)
@@ -22,3 +24,5 @@ To provide a concrete example of application materials, the following documents 
 - [Writing sample]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_writingsample.pdf)
 - [Diversity statement]({{ konstantinpoensgen.github.io }}/docs/phd_applications/Poensgen_DiversityStatement_GAIN.pdf)
 - Research proposals on [local taxation]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_markettaxation_proposal.pdf), [health insurance]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_MPHI_proposal.pdf), and [innovation productivity]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_rdduplication_proposal.pdf)
+
+[back to main page](./)
