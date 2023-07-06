@@ -1,6 +1,8 @@
 @import "fonts";
 @import "rouge-github";
 
+/* H color scheme  https://seas.harvard.edu/office-communications/brand-style-guide/color-palette*/
+
 body {
   background-color: #fff;
   padding:50px;
@@ -42,6 +44,10 @@ a {
 a:hover, a:focus {
   color:#A51C30;
   font-weight: bold;
+}
+
+a:visited {
+  color:#ec8f9c
 }
 
 a small {
