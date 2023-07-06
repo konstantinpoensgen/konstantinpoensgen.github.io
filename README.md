@@ -6,8 +6,8 @@ I am co-leading the mentoring program of the [Graduate Applications Internationa
 
 Previously, I was a predoctoral fellow at the University of Zurich and a Junior Economist at the Organisation for Economic Co-operation and Development through the OECD Young Associates Programme (YAP). I hold an MSc in Econometrics and Mathematical Economics from the London School of Economics and a BSc in Economics from the University of Mannheim.
 
-You can find my [CV here]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/cv_poensgen.pdf).
+---
 
 ### Resources  
 
-[Advice for economics Ph.D. applications](./pages/phd-economics-application-advice.html).
+- [Advice for economics Ph.D. applications](./pages/phd-economics-application-advice.html)
