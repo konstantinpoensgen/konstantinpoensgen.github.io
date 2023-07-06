@@ -10,4 +10,4 @@ Previously, I was a predoctoral fellow at the University of Zurich and a Junior 
 
 ### Resources  
 
-- [Advice for economics Ph.D. applications](./pages/phd-economics-application-advice.html)
+- [Resources for economics Ph.D. applications](./pages/phd-economics-application-advice.html)
