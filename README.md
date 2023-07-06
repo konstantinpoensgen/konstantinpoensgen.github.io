@@ -25,8 +25,8 @@ You can find my [CV here]({{ konstantinpoensgen.github.io }}/docs/assets/phd_app
 
 To provide a concrete example of application materials, the following documents are the ones I had submitted in my application to PhD programs in economics. Please keep in mind that they are not necessarily "good" and only represent one possible way of structuring these documents.
 
-- [CV]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/cv_poensgen.pdf)
-- [Statement of Purpose (SOP)]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_sop_harvard_econ.pdf)
-- [Writing sample]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_writingsample.pdf)
-- [Diversity statement]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/Poensgen_DiversityStatement_GAIN.pdf)
-- Research proposals on [local taxation]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_markettaxation_proposal.pdf), [health insurance]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_MPHI_proposal.pdf), and [innovation productivity]({{ konstantinpoensgen.github.io }}/docs/assets/phd_applications/poensgen_rdduplication_proposal.pdf)
+- [CV]({{ konstantinpoensgen.github.io }}/docs/phd_applications/cv_poensgen.pdf)
+- [Statement of Purpose (SOP)]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_sop_harvard_econ.pdf)
+- [Writing sample]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_writingsample.pdf)
+- [Diversity statement]({{ konstantinpoensgen.github.io }}/docs/phd_applications/Poensgen_DiversityStatement_GAIN.pdf)
+- Research proposals on [local taxation]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_markettaxation_proposal.pdf), [health insurance]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_MPHI_proposal.pdf), and [innovation productivity]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_rdduplication_proposal.pdf)
