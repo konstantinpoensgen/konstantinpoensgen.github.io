@@ -25,4 +25,4 @@ To provide a concrete example of application materials, the following documents 
 - [Diversity statement]({{ konstantinpoensgen.github.io }}/docs/phd_applications/Poensgen_DiversityStatement_GAIN.pdf)
 - Research proposals on [local taxation]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_markettaxation_proposal.pdf), [health insurance]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_MPHI_proposal.pdf), and [innovation productivity]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_rdduplication_proposal.pdf)
 
-[<font size="1"> back to main page </font>](./README.html)
+[<font size="1"> back to main page </font>](https://konstantinpoensgen.github.io/)
