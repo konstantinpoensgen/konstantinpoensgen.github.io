@@ -10,6 +10,8 @@ You can find my [CV here]({{ konstantinpoensgen.github.io }}/docs/assets/phd_app
 
 ### Advice for economics Ph.D. applications  
 
+[Advice for economics Ph.D. applications](./phd-economics-application-advice.html).
+
 #### Resources
 
 - AEA on [preparing for graduate school](https://www.aeaweb.org/resources/students/grad-prep) and [suggested timeline](https://www.aeaweb.org/resources/students/grad-prep/timeline)
