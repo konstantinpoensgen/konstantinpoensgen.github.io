@@ -14,11 +14,11 @@ The following provides a list of free online resources to study for the TOEFL te
 #### Online Courses and Youtube Videos
 
 - [UC Irvine Coursera](https://www.coursera.org/specializations/toefl-preparation) 
-- [E2 TOEFL](https://www.youtube.com/channel/UClgEU5L6R4RuWZGd99h7qDA)
-- [TST Prep TOEFL](https://www.youtube.com/channel/UCL0ZOT3eKp4RvKcQyBZJ4bw)
-- [Magoosh](https://www.youtube.com/@MagooshTOEFL/featured)
+- [E2 TOEFL Youtube](https://www.youtube.com/channel/UClgEU5L6R4RuWZGd99h7qDA)
+- [TST Prep TOEFL Youtube](https://www.youtube.com/channel/UCL0ZOT3eKp4RvKcQyBZJ4bw)
+- [Magoosh Youtube](https://www.youtube.com/@MagooshTOEFL/featured)
 
-#### Study Resources not by ETS
+#### Online Blogs
 
 - [Magoosh TOEFL blog](https://magoosh.com/toefl/)
 - [BestMyTest blog](https://www.bestmytest.com/blog/toefl)
