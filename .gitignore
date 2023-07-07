@@ -1,2 +1,8 @@
 # ignore .DS_store file
 *.DS_store
+
+# ignore log files
+*.log
+
+# ignore all files in a temp folder
+temp/
