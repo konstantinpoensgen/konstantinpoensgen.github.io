@@ -5,7 +5,6 @@ layout: default
 ### PhD Economics Applications
 
 #### General Resources
-
 - AEA on [preparing for graduate school](https://www.aeaweb.org/resources/students/grad-prep) and [suggested timeline](https://www.aeaweb.org/resources/students/grad-prep/timeline)
 - [Guide for students considering a PhD - Dick Startz](https://econ.ucsb.edu/~startz/A%20Guide%20for%20UCSB%20Undergraduates%20Considering%20a%20PhD%20in%20Economics.pdf)
 - [Extensive application guide - Torsha Chakravorty, Aishwarya Kekre, Prerna Kundu, Lakshya Narula and Vaibhav Oiha](https://www.dropbox.com/sh/3kcg3puxw34garw/AABiW6A1VdZ_Ll_hQ2ZFfY8Na?dl=0&preview=Econ_PhD_Guide.pdf)
@@ -16,7 +15,17 @@ layout: default
 - [Resources for economics students including on applications - EconThaki](https://econthaki.github.io/recursos/2021/01/05/recursos.html)
 
 #### Standardized Tests
-- [Free TOEFL study resources](./pages/free-toefl-prep.html) 
+- [GRE study resources collected by GAIN](https://docs.google.com/document/d/1PTFDZv1YY0iL_lSH8XOovIWQ-BeXfIuRYSjiRngaBSw/edit?usp=sharing)
+- [Free TOEFL study resources](https://konstantinpoensgen.github.io/pages/free-toefl-prep.html) 
+
+#### Mentoring Programs
+- [Association for Mentoring & Inclusion in Economics (AIME)](https://econmentoring.org)
+- [Research in Color Foundation](https://www.researchincolor.org)
+- [Sadie Collective](https://www.sadiecollective.org)
+- [Harvard/MIT Application Assistance and Mentoring Program (AAMP)](https://economics.mit.edu/academic-programs/phd-program/admissions)
+- [Duke’s Economics Graduate Mentorship Program](https://econ.duke.edu/phd-program/prospective-students/graduate-mentorship-program)
+- [Economics Applicant Mentoring Programme (AMP) at Cambridge, LSE, Oxford, UCL and Warwick](https://www.lse.ac.uk/economics/study/research/applicant-mentoring-programme)
+- [Opportunities for students from the Global South](https://docs.google.com/document/d/1E7tLbAve7G4BEg4Qeg065H_nbrsHYRvR/edit?usp=sharing&ouid=104515044926447535592&rtpof=true&sd=true)
 
 #### Application Materials
 
