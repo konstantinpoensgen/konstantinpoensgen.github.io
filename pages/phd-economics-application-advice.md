@@ -18,16 +18,19 @@ layout: default
 - [GRE study resources collected by GAIN](https://docs.google.com/document/d/1PTFDZv1YY0iL_lSH8XOovIWQ-BeXfIuRYSjiRngaBSw/edit?usp=sharing)
 - [Free TOEFL study resources](https://konstantinpoensgen.github.io/pages/free-toefl-prep.html) 
 
-#### Mentoring Programs
-- [Association for Mentoring & Inclusion in Economics (AIME)](https://econmentoring.org)
-- [Research in Color Foundation](https://www.researchincolor.org)
-- [Sadie Collective](https://www.sadiecollective.org)
-- [Harvard/MIT Application Assistance and Mentoring Program (AAMP)](https://economics.mit.edu/academic-programs/phd-program/admissions)
+#### PhD Application Mentoring Programs
 - [Duke’s Economics Graduate Mentorship Program](https://econ.duke.edu/phd-program/prospective-students/graduate-mentorship-program)
 - [Economics Applicant Mentoring Programme (AMP) at Cambridge, LSE, Oxford, UCL and Warwick](https://www.lse.ac.uk/economics/study/research/applicant-mentoring-programme)
-- [Opportunities for students from the Global South](https://docs.google.com/document/d/1E7tLbAve7G4BEg4Qeg065H_nbrsHYRvR/edit?usp=sharing&ouid=104515044926447535592&rtpof=true&sd=true)
+- [Graduate Applications International Network (GAIN)](https://gain-network.net)
+- [Harvard/MIT Application Assistance and Mentoring Program (AAMP)](https://economics.mit.edu/academic-programs/phd-program/admissions)
 
-#### Application Materials
+#### Broader Mentoring Programs
+- [Association for Mentoring & Inclusion in Economics (AIME)](https://econmentoring.org)
+- [Opportunities for students from the Global South](https://docs.google.com/document/d/1E7tLbAve7G4BEg4Qeg065H_nbrsHYRvR/edit?usp=sharing&ouid=104515044926447535592&rtpof=true&sd=true)
+- [Research in Color Foundation](https://www.researchincolor.org)
+- [Sadie Collective](https://www.sadiecollective.org)
+
+#### Sample Application Materials
 
 To provide a concrete example of application materials, the following documents are the ones I had submitted in my application to PhD programs in economics. Please keep in mind that they are not necessarily "good" and only represent one example of structuring these documents.
 
