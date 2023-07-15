@@ -45,4 +45,4 @@ The following provides a list of free online resources to study for the TOEFL te
 - [Quizlet](https://quizlet.com/1143890/500-toefl-words-flash-cards/)
 - [PrepScholar](https://www.prepscholar.com/toefl/blog/toefl-vocabulary-list/)
 
-[<font size="1"> back to main page </font>](https://konstantinpoensgen.github.io/)
+[<font size="1"> back to PhD application resources </font>](https://konstantinpoensgen.github.io/pages/phd-economics-application-advice.html)

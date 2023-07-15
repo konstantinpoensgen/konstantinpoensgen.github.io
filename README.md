@@ -4,11 +4,10 @@ I am an incoming PhD student in Economics at Harvard University. My main areas o
 
 I am co-leading the mentoring program of the <a href="https://gain-network.net" target="_blank">Graduate Applications International Network (GAIN)</a>. GAIN supports prospective graduate students from all countries across Africa applying for excellent graduate programs in economics and related fields. Registration for the 2023 cycle is closed. If you are interested in participating in the GAIN program in 2024, sign up <a href="https://gain-network.net/participants" target="_blank">here</a>.
 
-Previously, I was a predoctoral fellow at the University of Zurich and a Junior Economist at the Organisation for Economic Co-operation and Development through the OECD Young Associates Programme (YAP). I hold an MSc in Econometrics and Mathematical Economics from the London School of Economics and a BSc in Economics from the University of Mannheim.
+Previously, I was a predoctoral fellow at the University of Zurich and a Junior Economist at the Organisation for Economic Co-operation and Development through the OECD Young Associates Programme (YAP). I hold a MSc in Econometrics and Mathematical Economics from the London School of Economics and a BSc in Economics from the University of Mannheim.
 
 ---
 
 ### Resources  
 
 - [Resources for economics Ph.D. applications](./pages/phd-economics-application-advice.html)
-- [Free TOEFL study resources](./pages/free-toefl-prep.html)

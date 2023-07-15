@@ -4,7 +4,7 @@ layout: default
 
 ### PhD Economics Applications
 
-#### Resources
+#### General Resources
 
 - AEA on [preparing for graduate school](https://www.aeaweb.org/resources/students/grad-prep) and [suggested timeline](https://www.aeaweb.org/resources/students/grad-prep/timeline)
 - [Guide for students considering a PhD - Dick Startz](https://econ.ucsb.edu/~startz/A%20Guide%20for%20UCSB%20Undergraduates%20Considering%20a%20PhD%20in%20Economics.pdf)
@@ -15,9 +15,12 @@ layout: default
 - [Advice for applying to grad school in Economics - Susan Athey](https://gsb-faculty.stanford.edu/susan-athey/professional-advice/)
 - [Resources for economics students including on applications - EconThaki](https://econthaki.github.io/recursos/2021/01/05/recursos.html)
 
-#### Application materials
+#### Standardized Tests
+- [Free TOEFL study resources](./pages/free-toefl-prep.html) 
 
-To provide a concrete example of application materials, the following documents are the ones I had submitted in my application to PhD programs in economics. Please keep in mind that they are not necessarily "good" and only represent one possible way of structuring these documents.
+#### Application Materials
+
+To provide a concrete example of application materials, the following documents are the ones I had submitted in my application to PhD programs in economics. Please keep in mind that they are not necessarily "good" and only represent one example of structuring these documents.
 
 - [CV]({{ konstantinpoensgen.github.io }}/docs/phd_applications/cv_poensgen.pdf)
 - [Statement of Purpose (SOP)]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_sop_harvard_econ.pdf)
