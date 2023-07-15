@@ -4,6 +4,16 @@ layout: default
 
 ### PhD Economics Applications
 
+This page collects resources related to graduate school applications in economics. The information includes: 
+1. General resources
+2. Standardized tests
+3. PhD application mentoring programs
+4. Broader mentoring programs
+5. Sample application materials
+6. Scholarships
+
+If you have information that could be added, please email me (konstantinpoensgen [at] fas.harvard.edu).
+
 #### General Resources
 - AEA on [preparing for graduate school](https://www.aeaweb.org/resources/students/grad-prep) and [suggested timeline](https://www.aeaweb.org/resources/students/grad-prep/timeline)
 - [Guide for students considering a PhD - Dick Startz](https://econ.ucsb.edu/~startz/A%20Guide%20for%20UCSB%20Undergraduates%20Considering%20a%20PhD%20in%20Economics.pdf)
@@ -39,5 +49,46 @@ To provide a concrete example of application materials, the following documents 
 - [Writing sample]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_writingsample.pdf)
 - [Diversity statement]({{ konstantinpoensgen.github.io }}/docs/phd_applications/Poensgen_DiversityStatement_GAIN.pdf)
 - Research proposals on [local taxation]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_markettaxation_proposal.pdf), [health insurance]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_MPHI_proposal.pdf), and [innovation productivity]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_rdduplication_proposal.pdf)
+
+#### Scholarships
+
+Databases:
+- [Africademics](https://africademics.com)
+- [AfterSchoolAfrica](https://www.afterschoolafrica.com)
+- [Advance Africa](https://www.advance-africa.com)
+- [EduCanada](https://www.educanada.ca/scholarships-bourses/non_can/index.aspx?lang=eng)
+- [FastWeb](https://www.fastweb.com)
+- [Mawozo Institute Opportunities Database](https://mawazoinstitute.org/opportunities-database)
+- [Opportunities for Africans](https://www.opportunitiesforafricans.com)
+- [Opportunity Desk](https://opportunitydesk.org/category/fellowships-and-scholarships/)
+- [Scholars4Dev](https://www.scholars4dev.com)
+
+UK: 
+- [Cambridge-Africa fellowship](https://www.cambridge-africa.cam.ac.uk/opportunities/study/)
+- [Commonwealth Shared Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships/)
+- [King's College Peace, Security and Development Fellowships](https://africanleadershipcentre.org/index.php/2014-10-22-15-41-35/degree-awarding-fellowship-programmes)
+- [Manchester Equity and Merit Scholarships for International Students](https://www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/equity-merit-scholarships/)
+
+US:
+- [AAUW Scholarship](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)
+- [Columbia/Chicago Obama Foundation Scholars](https://www.obama.org/scholars/)
+- [Cornell University Schoalrships for Africans](https://gradschool.cornell.edu/policies/fellowships/)
+- [Fulbright Foreign Student Program](https://foreign.fulbrightonline.org/)
+- [GWU Global Leaders Fellowship](https://columbian.gwu.edu/global-leaders-fellowship)
+- [NYU African Women’s Public Service Fellowship](https://wagner.nyu.edu/admissions/financial-aid/fellowships)
+- [NYU PhD Excellence Initiative -- only for US citizens](https://www.phdexcellence.org/about/)
+
+Germany:
+- [German scholarship database (DAAD)](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/)
+- [Malengo](https://malengo.org)
+
+France:
+- [PSE Funding](https://www.parisschoolofeconomics.eu/IMG/pdf/funding-opportunities-pse.pdf)
+
+Other scholarships:
+- [Aga Khan Scholarship Programme](https://www.akdn.org/our-agencies/aga-khan-foundation/international-scholarship-programme)
+- [Joint Japan/WB scholarships program](https://www.worldbank.org/en/programs/scholarships)
+- [Mastercard Foundation Scholarship](https://mastercardfdn.org/all/scholars/)
+- [Rotary Peace Fellowships](https://www.rotary.org/en/our-programs/peace-fellowships)
 
 [<font size="1"> back to main page </font>](https://konstantinpoensgen.github.io/)
