@@ -87,6 +87,7 @@ France:
 
 Other scholarships:
 - [Aga Khan Scholarship Programme](https://www.akdn.org/our-agencies/aga-khan-foundation/international-scholarship-programme)
+- [IEFA Sustainability Scholarship](https://www.iefa.org/scholarships/3528/Sustainability_Scholarship)
 - [Joint Japan/WB scholarships program](https://www.worldbank.org/en/programs/scholarships)
 - [Mastercard Foundation Scholarship](https://mastercardfdn.org/all/scholars/)
 - [Rotary Peace Fellowships](https://www.rotary.org/en/our-programs/peace-fellowships)
