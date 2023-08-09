@@ -56,7 +56,7 @@ Keeping those disclaimers in mind, these were my application materials:
 
 #### Scholarships
 
-Applying to scholarships (or external funding) is particularly important if you are applying to Master's programs. PhD programs tend to be funded, but it can still be a useful to secure external funding in either the application stage or later funding/teaching situation. It is critical to search for scholarships early on in the application process -- waiting for after the grad school applications is often too late.
+Applying to scholarships (or external funding) is particularly important if you are applying to Master's programs. PhD programs tend to be funded, but it can still be useful to secure external funding in either the application stage or later funding/teaching situation. It is critical to search for scholarships early on in the application process -- waiting for after the grad school applications is often too late.
 
 ##### Databases:
 - [Africademics](https://africademics.com)
