@@ -12,7 +12,7 @@ This page collects resources related to graduate school applications in economic
 5. Sample application materials
 6. Scholarship information
 
-If you have information that could be added, please email me (konstantinpoensgen [at] fas.harvard.edu).
+If you have information that could be added, please email me (konstantinpoensgen  [ a t ]  fas.harvard.edu).
 
 #### General resources
 - AEA on [preparing for graduate school](https://www.aeaweb.org/resources/students/grad-prep) and [suggested timeline](https://www.aeaweb.org/resources/students/grad-prep/timeline)
