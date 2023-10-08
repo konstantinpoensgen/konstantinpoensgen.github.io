@@ -48,7 +48,7 @@ To provide an example of application materials, the following documents are the 
 - everyone's application profile is unique 
 
 Keeping those disclaimers in mind, these were my application materials:
-- [CV]({{ konstantinpoensgen.github.io }}/docs/phd_applications/cv_poensgen.pdf)
+- [CV]({{ konstantinpoensgen.github.io }}/docs/phd_applications/cv_poensgen_phd.pdf)
 - [Statement of Purpose (SOP)]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_sop_harvard_econ.pdf)
 - [Writing sample]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_writingsample.pdf)
 - [Diversity statement]({{ konstantinpoensgen.github.io }}/docs/phd_applications/Poensgen_DiversityStatement_GAIN.pdf)
