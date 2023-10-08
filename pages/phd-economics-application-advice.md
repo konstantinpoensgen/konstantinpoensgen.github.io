@@ -5,14 +5,14 @@ layout: default
 ### PhD Economics Applications
 
 This page collects resources related to graduate school applications in economics. The information includes: 
-1. General resources
-2. Standardized tests
-3. PhD application mentoring programs
-4. Broader mentoring programs
-5. Sample application materials
-6. Scholarship information
+1. [General resources](#general-resources)
+2. [Standardized tests](#standardized-tests)
+3. [PhD application mentoring programs](#phd-application-mentoring-programs)
+4. [Broader mentoring programs](#broader-mentoring-programs)
+5. [Scholarships](#scholarships)
+6. [Sample application materials](#sample-application-materials)
 
-If you have information that could be added, please email me (konstantinpoensgen  [ a t ]  fas.harvard.edu).
+Please reach out if you have any questions or information that could be added to this page (konstantinpoensgen  [ a t ]  fas.harvard.edu). 
 
 #### General resources
 - AEA on [preparing for graduate school](https://www.aeaweb.org/resources/students/grad-prep) and [suggested timeline](https://www.aeaweb.org/resources/students/grad-prep/timeline)
@@ -40,6 +40,12 @@ If you have information that could be added, please email me (konstantinpoensgen
 - [Research in Color Foundation](https://www.researchincolor.org)
 - [Sadie Collective](https://www.sadiecollective.org)
 
+#### Scholarships
+
+Applying to scholarships (or external funding) is particularly important if you are applying to Master's programs. PhD programs tend to be funded, but it can still be useful to secure external funding in either the application stage or later funding/teaching situation. It is critical to search for scholarships early on in the application process -- waiting for after the grad school applications is often too late. 
+
+Some resources are linked [here](https://konstantinpoensgen.github.io/pages/free-toefl-prep.html).
+
 #### Sample application materials
 
 To provide an example of application materials, the following documents are the ones I had submitted in my application to PhD programs in economics (12/2022). Please keep several things in mind: 
@@ -53,53 +59,5 @@ Keeping those disclaimers in mind, these were my application materials:
 - [Writing sample]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_writingsample.pdf)
 - [Diversity statement]({{ konstantinpoensgen.github.io }}/docs/phd_applications/Poensgen_DiversityStatement_GAIN.pdf)
 - Research proposals on [local taxation]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_markettaxation_proposal.pdf), [health insurance]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_MPHI_proposal.pdf), and [innovation productivity]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_rdduplication_proposal.pdf)
-
-#### Scholarships
-
-Applying to scholarships (or external funding) is particularly important if you are applying to Master's programs. PhD programs tend to be funded, but it can still be useful to secure external funding in either the application stage or later funding/teaching situation. It is critical to search for scholarships early on in the application process -- waiting for after the grad school applications is often too late.
-
-##### Databases:
-- [Africademics](https://africademics.com)
-- [AfterSchoolAfrica](https://www.afterschoolafrica.com)
-- [Advance Africa](https://www.advance-africa.com)
-- [FastWeb](https://www.fastweb.com)
-- [Mawozo Institute Opportunities Database](https://mawazoinstitute.org/opportunities-database)
-- [Opportunities for Africans](https://www.opportunitiesforafricans.com)
-- [Opportunity Desk](https://opportunitydesk.org/category/fellowships-and-scholarships/)
-- [Scholars4Dev](https://www.scholars4dev.com)
-
-##### Specific scholarships:
-- [Aga Khan Scholarship Programme](https://www.akdn.org/our-agencies/aga-khan-foundation/international-scholarship-programme)
-- [IEFA Sustainability Scholarship](https://www.iefa.org/scholarships/3528/Sustainability_Scholarship)
-- [Joint Japan/WB scholarships program](https://www.worldbank.org/en/programs/scholarships)
-- [Mastercard Foundation Scholarship](https://mastercardfdn.org/all/scholars/)
-- [Rotary Peace Fellowships](https://www.rotary.org/en/our-programs/peace-fellowships)
-
-##### Country specific scholarships
-
-Canada:
-- [EduCanada](https://www.educanada.ca/scholarships-bourses/non_can/index.aspx?lang=eng)
-
-France:
-- [PSE Funding](https://www.parisschoolofeconomics.eu/IMG/pdf/funding-opportunities-pse.pdf)
-
-Germany:
-- [German scholarship database (DAAD)](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/)
-- [Malengo](https://malengo.org)
-
-UK: 
-- [Cambridge-Africa fellowship](https://www.cambridge-africa.cam.ac.uk/opportunities/study/)
-- [Commonwealth Shared Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships/)
-- [King's College Peace, Security and Development Fellowships](https://africanleadershipcentre.org/index.php/2014-10-22-15-41-35/degree-awarding-fellowship-programmes)
-- [Manchester Equity and Merit Scholarships for International Students](https://www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/equity-merit-scholarships/)
-
-US:
-- [AAUW Scholarship](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)
-- [Columbia/Chicago Obama Foundation Scholars](https://www.obama.org/scholars/)
-- [Cornell University Schoalrships for Africans](https://gradschool.cornell.edu/policies/fellowships/)
-- [Fulbright Foreign Student Program](https://foreign.fulbrightonline.org/)
-- [GWU Global Leaders Fellowship](https://columbian.gwu.edu/global-leaders-fellowship)
-- [NYU African Women’s Public Service Fellowship](https://wagner.nyu.edu/admissions/financial-aid/fellowships)
-- [NYU PhD Excellence Initiative -- only for US citizens](https://www.phdexcellence.org/about/)
 
 [<font size="1"> back to main page </font>](https://konstantinpoensgen.github.io/)
