@@ -25,7 +25,7 @@
 % Gap between subsections and subsubsections
 \titlespacing{\section}{4pt}{4pt}{4pt} 
 \titlespacing{\subsection}{0em}{0pt}{-1pt} %{<command>}{<left>}{<before-sep>}{<after-sep>}
-\titlespacing{\subsubsection}{0em}{0pt}{4pt} 
+\titlespacing{\subsubsection}{0em}{0pt}{2pt} 
 
 % Dates in section headers
 \newcommand{\datedsection}[2]{%
