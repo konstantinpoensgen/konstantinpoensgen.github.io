@@ -4,7 +4,7 @@ layout: default
 
 ### PhD Economics Applications
 
-This page collects resources related to graduate school applications in economics. The information includes: 
+This page collects resources related to graduate school applications in economics. The information include: 
 1. [General resources](#general-resources)
 2. [Standardized tests](#standardized-tests)
 3. [PhD application mentoring programs](#phd-application-mentoring-programs)
@@ -44,7 +44,7 @@ Please reach out if you have any questions or information that could be added to
 
 Applying to scholarships (or external funding) is particularly important if you are applying to Master's programs. PhD programs tend to be funded, but it can still be useful to secure external funding in either the application stage or later funding/teaching situation. It is critical to search for scholarships early on in the application process -- waiting for after the grad school applications is often too late. 
 
-Some resources are linked [here](https://konstantinpoensgen.github.io/pages/free-toefl-prep.html).
+Some resources are linked [here](https://konstantinpoensgen.github.io/pages/grad-school-economics-scholarships.html).
 
 #### Sample application materials
 
