@@ -13,7 +13,7 @@ Previously, I was a <a href="http://www.econ.uzh.ch/en/study/predoc.html" target
 
 ---
 
-### Policy Reports
+### Policy Papers
 
 #### Global Landscape of Financing for Sustainable Development
 
