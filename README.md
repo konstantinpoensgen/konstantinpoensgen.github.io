@@ -8,7 +8,8 @@ Previously, I was a <a href="http://www.econ.uzh.ch/en/study/predoc.html" target
 
 ### Resources  
 
-- [Resources for economics Ph.D. applications](./pages/phd-economics-application-advice.html)
+- [Economics Ph.D. applications](./pages/phd-economics-application-advice.html)
+- <a href="https://raguide.github.io" target="_blank"> Economics predoc applications </a>
 - <a href="https://www.oecd.org/dac/transition-finance-toolkit/" target="_blank" > OECD Transition Finance Toolkit </a>
 
 ---
