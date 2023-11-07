@@ -44,6 +44,8 @@ Please reach out if you have any questions or information that could be added to
 
 Applying to scholarships (or external funding) is particularly important if you are applying to Master's programs. PhD programs tend to be funded, but it can still be useful to secure external funding in either the application stage or later funding/teaching situation. It is critical to search for scholarships early on in the application process -- waiting for after the grad school applications is often too late. 
 
+If you are from the US, apply for NSF grants.
+
 Some resources are linked [here](https://konstantinpoensgen.github.io/pages/grad-school-economics-scholarships.html).
 
 #### Sample application materials
