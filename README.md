@@ -6,11 +6,10 @@ Previously, I was a <a href="http://www.econ.uzh.ch/en/study/predoc.html" target
 
 ---
 
-### Resources  
+### PhD and Predoc Application Resources
 
 - [Resources on Ph.D. applications in economics](./pages/phd-economics-application-advice.html)
-- <a href="https://raguide.github.io" target="_blank"> Resources on predoc applications in economics </a>
-- <a href="https://www.oecd.org/dac/transition-finance-toolkit/" target="_blank" > OECD Transition Finance Toolkit </a>
+- <a href="https://raguide.github.io" target="_blank"> Resources on predoc applications in economics </a> (external link)
 
 ---
 
@@ -29,6 +28,8 @@ OECD (2021), "Financing transition in the health sector: What can Development As
 OECD (2020), "Strengthening health systems during a pandemic: The role of development finance", _OECD Policy Responses to Coronavirus (COVID-19)_, <a href="https://doi.org/10.1787/0d16fad8-en" target="_blank" > link</a>. [with Jieun Kim and Martin Kessler]
 
 #### Financing Transitions across Development Stages
+
+My work on development transition finance includes the <a href="https://www.oecd.org/dac/transition-finance-toolkit/" target="_blank" > OECD Transition Finance Toolkit</a>. This toolkit allows analysts and decision-makers to conduct a transition finance diagnostic using a wealth of socio-economic and financial development indicators.
 
 Cattaneo, O., C. Piemonte and K. Poensgen (2020), "Transition finance country study of Chile: Better managing graduation from ODA eligibility", _OECD Development Co-operation Working Papers_, No. 70, OECD Publishing, Paris, <a href="https://doi.org/10.1787/608cbf6d-en" target="_blank" > link</a>.
 
