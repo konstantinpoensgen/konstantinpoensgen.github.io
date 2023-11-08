@@ -5,12 +5,13 @@ layout: default
 ### PhD Economics Applications
 
 This page collects resources related to graduate school applications in economics. The information include: 
-1. [General resources](#general-resources)
-2. [Standardized tests](#standardized-tests)
-3. [PhD application mentoring programs](#phd-application-mentoring-programs)
-4. [Broader mentoring programs](#broader-mentoring-programs)
-5. [Scholarships](#scholarships)
-6. [Sample application materials](#sample-application-materials)
+1. [Personal advice](#personal-advice)
+2. [General resources](#general-resources)
+3. [Standardized tests](#standardized-tests)
+4. [PhD application mentoring programs](#phd-application-mentoring-programs)
+5. [Broader mentoring programs](#broader-mentoring-programs)
+6. [Scholarships](#scholarships)
+7. [Sample application materials](#sample-application-materials)
 
 Please reach out if you have any questions or information that could be added to this page (konstantinpoensgen  [ a t ]  fas.harvard.edu). 
 
