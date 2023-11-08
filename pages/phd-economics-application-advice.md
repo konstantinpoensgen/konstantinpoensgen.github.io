@@ -22,7 +22,7 @@ _This section is very much work-in-progress. I will add more information over ti
 ##### Application strategy
 * Diversify the set of schools you are applying to. The application process is noisy, so applying to various schools hedges your risk.
     - Apply to a combination of reach, target, and safety schools. Reach schools are those that you are not sure you will get into, target schools are those that you think you have a good chance of getting into, and safety schools are those that you are confident you will get into.
-    - Apply to more schools than you think. That is, many people apply to 20-30 schools. I applied to 36 schools, which looking back were too many. Some people apply to fewer schools, but this depends on one's profile and preferences.
+    - Apply to many schools. That is, many people apply to 20-30 schools. I applied to 36 schools, which looking back were too many. Some people apply to fewer schools, but this depends on one's profile and preferences.
     - Applications are costly. If this is a concern, reach out to the schools to ask for an application fee waiver. Also see the list on [mentorship programs](#phd-application-mentoring-programs) below.
 * Discuss your school list with your letter writers. They will have a good sense of which schools are a good fit for you. Understanding what prospective letter writers think about your potential outcomes---and hence what kind of letter they might write---can also help you choose your letter writers. 
 
