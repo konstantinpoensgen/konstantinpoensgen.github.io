@@ -8,7 +8,7 @@ Previously, I was a <a href="http://www.econ.uzh.ch/en/study/predoc.html" target
 
 ### PhD and Predoc Application Resources
 
-- [Resources on Ph.D. applications in economics](./pages/phd-economics-application-advice.html)
+- [Resources on PhD applications in economics](./pages/phd-economics-application-advice.html)
 - <a href="https://raguide.github.io" target="_blank"> Resources on predoc applications in economics </a> (external link)
 
 ---
