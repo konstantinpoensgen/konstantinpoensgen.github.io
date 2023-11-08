@@ -29,7 +29,7 @@ OECD (2020), "Strengthening health systems during a pandemic: The role of develo
 
 #### Financing Transitions across Development Stages
 
-My work on development transition finance includes the <a href="https://www.oecd.org/dac/transition-finance-toolkit/" target="_blank" > OECD Transition Finance Toolkit</a>. This toolkit allows analysts and decision-makers to conduct a transition finance diagnostic using a wealth of socio-economic and financial development indicators.
+_My work on development transition finance includes the <a href="https://www.oecd.org/dac/transition-finance-toolkit/" target="_blank" > OECD Transition Finance Toolkit</a>. This toolkit allows analysts and decision-makers to conduct a transition finance diagnostic using a wealth of socio-economic and financial development indicators._
 
 Cattaneo, O., C. Piemonte and K. Poensgen (2020), "Transition finance country study of Chile: Better managing graduation from ODA eligibility", _OECD Development Co-operation Working Papers_, No. 70, OECD Publishing, Paris, <a href="https://doi.org/10.1787/608cbf6d-en" target="_blank" > link</a>.
 
