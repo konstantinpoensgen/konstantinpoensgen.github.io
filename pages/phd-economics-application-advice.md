@@ -5,37 +5,14 @@ layout: default
 ### PhD Economics Applications
 
 This page collects resources related to graduate school applications in economics. The information include: 
-1. [Personal advice](#personal-advice)
-2. [General resources](#general-resources)
-3. [Standardized tests](#standardized-tests)
-4. [PhD application mentoring programs](#phd-application-mentoring-programs)
-5. [Broader mentoring programs](#broader-mentoring-programs)
-6. [Scholarships](#scholarships)
-7. [Sample application materials](#sample-application-materials)
+1. [General resources](#general-resources)
+2. [Standardized tests](#standardized-tests)
+3. [PhD application mentoring programs](#phd-application-mentoring-programs)
+4. [Broader mentoring programs](#broader-mentoring-programs)
+5. [Scholarships](#scholarships)
+6. [Sample application materials](#sample-application-materials)
 
 Please reach out if you have any questions or information that could be added to this page (konstantinpoensgen  [ a t ]  fas.harvard.edu). 
-
-#### Personal advice
-
-_This section is very much work-in-progress. I will add more information over time. Please keep in mind that my personal advice is subjective and that there often is no single right approach._
-
-##### Application strategy
-* Diversify the set of schools you are applying to. The application process is noisy, so applying to various schools hedges your risk.
-    - Apply to a combination of reach, target, and safety schools. Reach schools are those that you are not sure you will get into, target schools are those that you think you have a good chance of getting into, and safety schools are those that you are confident you will get into.
-    - Apply to many schools. That is, many people apply to 20-30 schools. I applied to 36 schools, which looking back were too many. Some people apply to fewer schools, but this depends on one's profile and preferences.
-    - Applications are costly. If this is a concern, reach out to the schools to ask for an application fee waiver. Also see the list on [mentorship programs](#phd-application-mentoring-programs) below.
-* Discuss your school list with your letter writers. They will have a good sense of which schools are a good fit for you. Understanding what prospective letter writers think about your potential outcomes---and hence what kind of letter they might write---can also help you choose your letter writers. 
-
-##### Application materials
-* **GRE:** By far the most important part is the quantitative section. Taking the GRE early allows you to retake it before application deadlines. Many people take the GRE multiple times (including me).
-    - You can find a distribution of GRE scores <a href="https://www.ets.org/pdfs/gre/gre-guide-table-1a.pdf" target="_blank"> here</a>. For the highest ranked programs, a high GRE score can be very important. My personal sense is that the highest ranked programs would generally expect GRE scores in the 90th percentile---and 70th or 80th percentile for mid-ranked programs.
-    - In my view, generally, the GRE score region is a function of the amount of practice. Don't underestimate the test just because the math might look easy to you. Studying under the time constraint is important. Some study resources are listed [below](#standardized-tests).
-- **CV:** The CV is very standard, but (in my view) should follow an academic format and focus on the aspects relevant to PhD applications. [This]({{ konstantinpoensgen.github.io }}/docs/phd_applications/cv_poensgen_phd.pdf) is the CV I submitted as part of my PhD applications. Make sure awards/honors/scholarships/grades (as long as they are favorable) are included.
-- **SOP:** I had received differing advice on the SOP and---for the time being---I defer to the general resources listed in the [next](#general-resources) section for advice. [This]({{ konstantinpoensgen.github.io }}/docs/phd_applications/poensgen_sop_harvard_econ.pdf) is the SOP I submitted. I did not tailor my SOP to schools. The research interests you list in the SOP are not in any way binding for your PhD. I really like <a href="https://bldavies.com/blog/applying-economics-phd-programs/statement.pdf" target="_blank"> the SOP by Ben Davies </a> at Stanford University.
-- **Writing sample:** This can be your undergradatuate or masters thesis. If you do not have a thesis, you can submit a term paper. It should generally be a solo-authored paper. Some schools will ask you to submit a shorter version of your writing sample (e.g., 10 pages only), in which case you can provide an excerpt of your full writing sample.
-- **Diversity statement:** Some schools ask for a diversity statement, which might ask about your personal bacckground and experience, or about your commitment to diversity. It is not a document that will make (or break) your application, but I would encourage you to view it as a good opportunity to reflect on this very important topic. [This]({{ konstantinpoensgen.github.io }}/docs/phd_applications/Poensgen_DiversityStatement_GAIN.pdf) is the diversity statement I submitted.
-
-You can find sample materials from my PhD application [below](#sample-application-materials). 
 
 #### General resources
 - AEA on [preparing for graduate school](https://www.aeaweb.org/resources/students/grad-prep) and [suggested timeline](https://www.aeaweb.org/resources/students/grad-prep/timeline)
@@ -67,8 +44,6 @@ You can find sample materials from my PhD application [below](#sample-applicatio
 #### Scholarships
 
 Applying to scholarships (or external funding) is particularly important if you are applying to Master's programs. PhD programs tend to be funded, but it can still be useful to secure external funding in either the application stage or later funding/teaching situation. It is critical to search for scholarships early on in the application process -- waiting for after the grad school applications is often too late. 
-
-If you are from the US, apply for NSF grants.
 
 Some resources are linked [here](https://konstantinpoensgen.github.io/pages/grad-school-economics-scholarships.html).
 
