@@ -23,6 +23,7 @@ Please reach out if you have any questions or information that could be added to
 - [FAQs on PhD applications - Chris Blattman](https://chrisblattman.com/blog/2022/03/25/faqs-on-phd-applications/)
 - [How to get into an Economics PhD program - Aparna Soni](http://www.aparnagsoni.com/for-prospective-phds-blog/2018/1/11/getting-into-an-econ-phd-program-recommended-reading)
 - [Advice for applying to grad school in Economics - Susan Athey](https://gsb-faculty.stanford.edu/susan-athey/professional-advice/)
+- [For the ambitious, prospective PhD student: A Guide - Rachael Meager](https://economics.com.au/2012/03/27/for-the-ambitious-prospective-phd-student-a-guide/)
 - [Resources for economics students including on applications - EconThaki](https://econthaki.github.io/recursos/2021/01/05/recursos.html)
 
 #### Standardized tests
