@@ -25,7 +25,7 @@ OECD (2020), "The impact of the coronavirus (COVID-19) crisis on development fin
 
 OECD (2021), "Financing transition in the health sector: What can Development Assistance Committee members do?", _OECD Development Policy Papers_, No. 37, OECD Publishing, Paris, <a href="https://doi.org/10.1787/0d16fad8-en" target="_blank" > link</a>.  [with Jieun Kim and Martin Kessler]
 
-OECD (2020), "Strengthening health systems during a pandemic: The role of development finance", _OECD Policy Responses to Coronavirus (COVID-19)_, <a href="https://doi.org/10.1787/0d16fad8-en" target="_blank" > link</a>. [with Jieun Kim and Martin Kessler]
+OECD (2020), "Strengthening health systems during a pandemic: The role of development finance", _OECD Policy Responses to Coronavirus (COVID-19)_, <a href="https://www.oecd.org/coronavirus/policy-responses/strengthening-health-systems-during-a-pandemic-the-role-of-development-finance-f762bf1c/" target="_blank" > link</a>. [with Jieun Kim and Martin Kessler]
 
 #### Financing Transitions across Development Stages
 
