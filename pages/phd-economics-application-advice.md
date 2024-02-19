@@ -31,7 +31,8 @@ Please reach out if you have any questions or information that could be added to
 - [Free TOEFL study resources](https://konstantinpoensgen.github.io/pages/free-toefl-prep.html) 
 
 #### PhD application mentoring programs
-- [Duke’s Economics Graduate Mentorship Program](https://econ.duke.edu/phd-program/prospective-students/graduate-mentorship-program)
+- [Duke Economics Graduate Mentorship Program](https://econ.duke.edu/phd-program/prospective-students/graduate-mentorship-program)
+- [Duke Pre-Graduate Fellows Program](https://econ.duke.edu/phdprogram/prospective-students/pre-graduate-fellows-program)
 - [Economics Applicant Mentoring Programme (AMP) at Cambridge, LSE, Oxford, UCL and Warwick](https://www.lse.ac.uk/economics/study/research/applicant-mentoring-programme)
 - [Graduate Applications International Network (GAIN)](https://gain-network.net)
 - [Harvard/MIT Application Assistance and Mentoring Program (AAMP)](https://economics.mit.edu/academic-programs/phd-program/admissions)
